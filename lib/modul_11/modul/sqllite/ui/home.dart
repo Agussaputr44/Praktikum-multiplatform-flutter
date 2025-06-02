@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:praktikum_flutter1/modul_11/sqllite/helpers/dbhelper.dart';
-import 'package:praktikum_flutter1/modul_11/sqllite/models/contact.dart';
+import 'package:praktikum_flutter1/modul_11/modul/sqllite/helpers/dbhelper.dart';
+import 'package:praktikum_flutter1/modul_11/modul/sqllite/models/contact.dart';
 import 'package:sqflite/sqflite.dart';
 import 'dart:async';
 

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:praktikum_flutter1/modul_11/sqllite/models/contact.dart';
+import 'package:praktikum_flutter1/modul_11/modul/sqllite/models/contact.dart';
 
 class EntryForm extends StatefulWidget {
   final Contact contact;

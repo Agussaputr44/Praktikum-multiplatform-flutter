@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:praktikum_flutter1/modul12/model/post.dart';
+import 'package:praktikum_flutter1/modul12/modul/model/post.dart';
 
 class PostsListView extends StatelessWidget {
   const PostsListView({Key? key}) : super(key: key);

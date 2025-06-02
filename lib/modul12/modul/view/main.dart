@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:praktikum_flutter1/modul12/view/album_by_id_view.dart';
-import 'package:praktikum_flutter1/modul12/view/post_all_view.dart';
+import 'package:praktikum_flutter1/modul12/modul/view/album_by_id_view.dart';
+import 'package:praktikum_flutter1/modul12/modul/view/post_all_view.dart';
 
 
 void main() {

@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:praktikum_flutter1/modul12/model/album.dart';
+import 'package:praktikum_flutter1/modul12/modul/model/album.dart';
 
 Future<Album> fetchAlbum() async {
   final response = await http
