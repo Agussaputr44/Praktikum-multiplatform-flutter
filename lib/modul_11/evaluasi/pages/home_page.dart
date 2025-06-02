@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
     );
 
     if (result == true) {
-      fetchKabupaten(); // refresh data kalau ada update
+      fetchKabupaten(); 
     }
   }
 
